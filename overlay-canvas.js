@@ -199,6 +199,7 @@
         break;
 
       case "x":
+	  case "escape":
         cleanup();
         return;
 
